@@ -3,7 +3,7 @@
 
   "name": "Format Bookstrap",
   "description": "Formats layout of bookstrap.hackreactor.com",
-  "version": "1.0",
+  "version": "6.9",
 
   "browser_action": {
     "default_title": "Format Bookstrap!",
