@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Format Bookstrap",
-  "description": "Formats layout of bookstrap.hackreactor.com",
+  "description": "Improves layout of bookstrap.hackreactor.com",
   "version": "6.9",
 
   "browser_action": {
