@@ -6,8 +6,7 @@
   "version": "6.9",
 
   "browser_action": {
-    "default_title": "Format Bookstrap!",
-    "default_icon": "icon.png"
+    "default_title": "Format Bookstrap!"
   },
 
   "content_scripts": [
