@@ -5,10 +5,6 @@
   "description": "Improves layout of bookstrap.hackreactor.com",
   "version": "6.9",
 
-  "browser_action": {
-    "default_title": "Format Bookstrap!"
-  },
-
   "content_scripts": [
     {
       "matches": ["*://bookstrap.hackreactor.com/*"],
