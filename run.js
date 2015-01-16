@@ -1,6 +1,3 @@
-// Simple Chrome etention to format bookstrap formatting which currently has an
-// issue with the help button overlapping the text and flat formatting of lists.
-
 document.addEventListener('DOMContentLoaded', (function() {
 
 	setTimeout(function() {
